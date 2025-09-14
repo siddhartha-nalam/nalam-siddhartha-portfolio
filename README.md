@@ -22,7 +22,7 @@ This is my personal portfolio website built with HTML and CSS. It showcases my s
 
 ## 🌐 Live Website
 This portfolio is hosted with **GitHub Pages**:  
-👉 [https://siddhartha-nalam.github.io/ramkrishna-portfolio](https://siddhartha-nalam.github.io/nalam-siddhartha-portfolio)
+👉 [https://siddhartha-nalam.github.io/nalam-siddhartha-portfolio](https://siddhartha-nalam.github.io/nalam-siddhartha-portfolio)
 
 ## 📸 Projects Showcase
 Below are some snapshots of my projects (add screenshots here):
