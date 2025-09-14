@@ -12,7 +12,7 @@ This is my personal portfolio website built with HTML and CSS. It showcases my s
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nalam-siddhartha-portfolio.git
+   git clone https://github.com/siddhartha-nalam/nalam-siddhartha-portfolio.git
    ```
 2. Navigate into the folder:
    ```bash
@@ -22,7 +22,7 @@ This is my personal portfolio website built with HTML and CSS. It showcases my s
 
 ## 🌐 Live Website
 This portfolio is hosted with **GitHub Pages**:  
-👉 [https://yourusername.github.io/ramkrishna-portfolio](https://yourusername.github.io/nalam-siddhartha-portfolio)
+👉 [https://siddhartha-nalam.github.io/ramkrishna-portfolio](https://siddhartha-nalam.github.io/nalam-siddhartha-portfolio)
 
 ## 📸 Projects Showcase
 Below are some snapshots of my projects (add screenshots here):
