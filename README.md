@@ -27,14 +27,8 @@ This portfolio is hosted with **GitHub Pages**:
 ## 📸 Projects Showcase
 Below are some snapshots of my projects (add screenshots here):
 
-### 1. E-Commerce Website
-![E-Commerce Website Screenshot](screenshots/ecommerce.png)
-
-### 2. CI/CD Pipeline Automation
-![CI/CD Pipeline Screenshot](screenshots/cicd.png)
-
-### 3. AI-Powered Chatbot
-![Chatbot Screenshot](screenshots/chatbot.png)
+### Task manager
+![Chatbot Screenshot](screenshots/Taskmanager.png)
 
 *(Screenshots can be uploaded to a `screenshots/` folder in the repo and linked here.)*
 
