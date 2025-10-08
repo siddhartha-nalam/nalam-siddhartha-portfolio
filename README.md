@@ -28,7 +28,7 @@ This portfolio is hosted with **GitHub Pages**:
 Below are some snapshots of my projects (add screenshots here):
 
 ### Task manager
-![Project-Screenshot](screenshots/Taskmanager.png)
+![Project-Screenshot](screenshots/Taskmanager.PNG)
 
 *(Screenshots can be uploaded to a `screenshots/` folder in the repo and linked here.)*
 
